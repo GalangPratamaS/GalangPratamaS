@@ -74,15 +74,11 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@galangpratamasugita/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@galangpratamasugita/0" alt="Recent Article 0"> 
 </div>
   
- <div align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@galangpratamasugita/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@galangpratamasugita/1" alt="Recent Article 1"> 
+  <div align="center">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@galangpratamasugita/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@galangpratamasugita/1" alt="Recent Article1"> 
 </div>
-   
- <div align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@galangpratamasugita/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@galangpratamasugita/2" alt="Recent Article 2"> 
-</div>
-   
-   [![Galang Pratama Medium](https://github-readme-medium.vercel.app/?username=galangpratamas)](https://medium.com/@galangpratamasugita)
+  
+ 
 
 
 
