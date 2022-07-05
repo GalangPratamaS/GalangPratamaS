@@ -71,7 +71,7 @@
 </p>
 
 <div align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ariadiahmad/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ariadiahmad/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@galangpratamasugita/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@galangpratamasugita/0" alt="Recent Article 0"> 
 </div>
   
  <div align="center">
