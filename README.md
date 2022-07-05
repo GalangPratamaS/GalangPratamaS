@@ -86,7 +86,7 @@
 - 👀 I’m interested in Web And Mobile Dev
 - 🌱 I’m currently learning Laravel & Flutter
 - 💞️ I’m looking to collaborate on Fullstack Developer
-- 📫 How to reach me : <a href="mailto:galangpratamasugita@gmail.com?subject=Halo saya dari github">galangpratamasugita@gmail.com</a>  mailto:galangpratamasugita@gmail.com
+- 📫 How to reach me : <a href="mailto:galangpratamasugita@gmail.com?subject=Halo saya dari github">galangpratamasugita@gmail.com</a> 
 
 <!---
 GalangPratamaS/GalangPratamaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
