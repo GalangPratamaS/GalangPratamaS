@@ -4,11 +4,11 @@
   <samp>
     Hello My Name is Galang Pratama
     <br><br>
-   I am backend Engineer, 
+   I am Fullstack Engineer, 
     <br><br>
    Learning Every Day
     <br><br>
-    I love Coding, You Love Coding too?
+    I’m currently learning Laravel & Flutter
   </samp>
 </p>
 
