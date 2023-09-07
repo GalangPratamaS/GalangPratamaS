@@ -8,7 +8,7 @@
     <br><br>
    Learning Every Day
     <br><br>
-    I’m currently learning Laravel & Flutter
+    I’m Focused In Laravel & Flutter
   </samp>
 </p>
 
